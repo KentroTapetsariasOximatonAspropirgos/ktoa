@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: navy;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: yellow;
+}
+header{
+	color: yellow;
+	font-size: 35px;
+}
+.header2{
+	font-size: 30px;
+}
+.onoma{
+	font-size: 25px;
+}
+table{
+	border: 2px solid yellow;
+	border-spacing: 20px;
+	padding: 20px;
+}
+td{
+	font-size: 23px;
+	text-align: center;
+	color: yellow;
+}
+img{
+	width: 200px;
+	height: 300px;
+}
